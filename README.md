@@ -1,4 +1,6 @@
-# projektYou should create  an application which allows a user to input first name, last name and GPA of students. In addition, program should enlist those students.
+# projekt
+
+You should create  an application which allows a user to input first name, last name and GPA of students. In addition, program should enlist those students.
 
  
 Project details:
