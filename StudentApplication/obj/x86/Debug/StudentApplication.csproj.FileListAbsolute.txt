@@ -1,0 +1,7 @@
+c:\users\kreativa\documents\visual studio 2010\Projects\StudentApplication\StudentApplication\bin\Debug\StudentApplication.exe
+c:\users\kreativa\documents\visual studio 2010\Projects\StudentApplication\StudentApplication\bin\Debug\StudentApplication.pdb
+c:\users\kreativa\documents\visual studio 2010\Projects\StudentApplication\StudentApplication\obj\x86\Debug\StudentApplication.exe
+c:\users\kreativa\documents\visual studio 2010\Projects\StudentApplication\StudentApplication\obj\x86\Debug\StudentApplication.pdb
+c:\users\kreativa\documents\visual studio 2010\Projects\StudentApplication\StudentApplication\bin\Debug\StudentApplicationClassLibary.dll
+c:\users\kreativa\documents\visual studio 2010\Projects\StudentApplication\StudentApplication\bin\Debug\StudentApplicationClassLibary.pdb
+c:\users\kreativa\documents\visual studio 2010\Projects\StudentApplication\StudentApplication\obj\x86\Debug\StudentApplication.csprojResolveAssemblyReference.cache
